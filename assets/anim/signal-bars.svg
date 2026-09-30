@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="20" fill="#0a0a14"/>
+  <g transform="translate(100,100)">
+    <path d="M0 -50 L30 -20 L0 10 Z" fill="#1a1a2e" stroke="#7c3aed" stroke-width="1"/>
+    <path d="M0 -70 L50 -35 L0 10 Z" fill="none" stroke="#a855f7" stroke-width="1.5">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="1s" repeatCount="indefinite"/>
+    </path>
+    <path d="M0 -90 L70 -50 L0 10 Z" fill="none" stroke="#ec4899" stroke-width="2">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="1s" repeatCount="indefinite" begin="0.3s"/>
+    </path>
+    <path d="M0 -110 L90 -65 L0 10 Z" fill="none" stroke="#22d3ee" stroke-width="2.5">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="1s" repeatCount="indefinite" begin="0.6s"/>
+    </path>
+    <circle cx="0" cy="0" r="5" fill="#22d3ee">
+      <animate attributeName="r" values="5;7;5" dur="1s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>

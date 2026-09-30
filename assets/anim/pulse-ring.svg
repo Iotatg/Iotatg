@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="20" fill="#0a0a14"/>
+  <circle cx="100" cy="100" r="40" fill="none" stroke="#7c3aed" stroke-width="2">
+    <animate attributeName="r" values="40;60;40" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="100" cy="100" r="40" fill="none" stroke="#ec4899" stroke-width="2">
+    <animate attributeName="r" values="40;60;40" dur="2s" repeatCount="indefinite" begin="0.5s"/>
+    <animate attributeName="opacity" values="1;0;1" dur="2s" repeatCount="indefinite" begin="0.5s"/>
+  </circle>
+  <circle cx="100" cy="100" r="40" fill="none" stroke="#22d3ee" stroke-width="2">
+    <animate attributeName="r" values="40;60;40" dur="2s" repeatCount="indefinite" begin="1s"/>
+    <animate attributeName="opacity" values="1;0;1" dur="2s" repeatCount="indefinite" begin="1s"/>
+  </circle>
+  <circle cx="100" cy="100" r="18" fill="#1a1a2e" stroke="#7c3aed" stroke-width="2"/>
+  <text x="100" y="105" font-size="14" fill="#c4b5fd" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-weight="700">IOTA</text>
+</svg>

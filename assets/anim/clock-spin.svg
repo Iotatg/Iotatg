@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="20" fill="#0a0a14"/>
+  <g transform="translate(100,100)">
+    <circle cx="0" cy="0" r="60" fill="none" stroke="#1a1a2e" stroke-width="2"/>
+    <circle cx="0" cy="0" r="60" fill="none" stroke="#7c3aed" stroke-width="2" stroke-dasharray="4 4">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <line x1="0" y1="0" x2="0" y2="-40" stroke="#ec4899" stroke-width="3" stroke-linecap="round">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="4s" repeatCount="indefinite"/>
+    </line>
+    <line x1="0" y1="0" x2="0" y2="-50" stroke="#22d3ee" stroke-width="2" stroke-linecap="round">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="60s" repeatCount="indefinite"/>
+    </line>
+    <circle cx="0" cy="0" r="4" fill="#c4b5fd"/>
+  </g>
+  <text x="100" y="175" font-size="9" fill="#7c6faa" text-anchor="middle" font-family="ui-monospace,monospace">LIVE CLOCK</text>
+</svg>

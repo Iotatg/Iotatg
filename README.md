@@ -115,6 +115,47 @@ Private product line (not public source): **Iota** games/economy and **IotaXMusi
 
 </div>
 
+<img src="assets/neon-line.svg" width="100%" alt="neon"/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:7c3aed&height=8&section=header" width="100%" alt="bar"/>
+
+**20+ Live Animations** — pulse · typing · spinner · neon-bar · wave-bars · scan · heartbeat · gradient · bounce · glow · signal · stars · morph · clock · border · particles · loading · equalizer · gradient-shift · typing-svg
+
+<br/>
+
+<img src="assets/anim/pulse-ring.svg" width="180" alt="pulse"/>
+<img src="assets/anim/typing-dots.svg" width="250" alt="typing"/>
+<img src="assets/anim/spinner.svg" width="150" alt="spinner"/>
+<br/>
+<img src="assets/anim/neon-bar.svg" width="500" alt="neon-bar"/>
+<br/>
+<img src="assets/anim/wave-bars.svg" width="500" alt="wave-bars"/>
+<br/>
+<img src="assets/anim/scan-line.svg" width="350" alt="scan"/>
+<img src="assets/anim/heartbeat.svg" width="150" alt="heartbeat"/>
+<br/>
+<img src="assets/anim/gradient-shift.svg" width="350" alt="gradient"/>
+<img src="assets/anim/bounce-ball.svg" width="200" alt="bounce"/>
+<br/>
+<img src="assets/anim/glow-text.svg" width="400" alt="glow"/>
+<img src="assets/anim/signal-bars.svg" width="150" alt="signal"/>
+<br/>
+<img src="assets/anim/star-rating.svg" width="300" alt="stars"/>
+<img src="assets/anim/morph-shape.svg" width="150" alt="morph"/>
+<br/>
+<img src="assets/anim/clock-spin.svg" width="150" alt="clock"/>
+<img src="assets/anim/border-glow.svg" width="250" alt="border"/>
+<br/>
+<img src="assets/anim/particle-explode.svg" width="150" alt="particles"/>
+<img src="assets/anim/loading-bar.svg" width="350" alt="loading"/>
+<br/>
+<img src="assets/anim/typing-svg.svg" width="500" alt="typing-svg"/>
+<img src="assets/anim/equalizer-anim.svg" width="300" alt="equalizer"/>
+
+</div>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:7c3aed&height=8&section=header" width="100%" alt="bar"/>
