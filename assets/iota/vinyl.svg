@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200" role="img" aria-label="Iota FM vinyl side A. Now broadcasting IOTA, a go tdlib engine.">
+<title>Iota FM: IOTA</title>
+<style>@media (prefers-reduced-motion:reduce){.iota-disc animateTransform{display:none}}
+@keyframes iota-needle-hold{0%,100%{opacity:.5}50%{opacity:.75}}
+.iota-arm-shadow{animation:iota-needle-hold 5.2s linear infinite}
+@media (prefers-reduced-motion:reduce){.iota-arm-shadow{animation:none}}</style>
+<defs>
+<linearGradient id="iotav-bg" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#171326"/><stop offset="1" stop-color="#0d0b16"/>
+</linearGradient>
+<radialGradient id="iotav-disc" cx="0.38" cy="0.32" r="0.82">
+<stop offset="0" stop-color="#31303f"/><stop offset="0.6" stop-color="#141414"/><stop offset="1" stop-color="#0a0a0a"/>
+</radialGradient>
+<linearGradient id="iotav-sheen" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0.22"/>
+<stop offset="0.45" stop-color="#ffffff" stop-opacity="0.02"/>
+<stop offset="1" stop-color="#22d3ee" stop-opacity="0.14"/>
+</linearGradient>
+<clipPath id="iotav-discclip"><circle cx="108" cy="100" r="76"/></clipPath>
+<linearGradient id="iotav-plate" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#241a38"/><stop offset="1" stop-color="#191226"/>
+</linearGradient>
+</defs>
+<rect width="800" height="200" fill="url(#iotav-bg)"/>
+<rect x="0.5" y="0.5" width="799" height="199" fill="none" stroke="#221d36"/>
+
+<circle cx="108" cy="100" r="76" fill="url(#iotav-disc)"/>
+<g class="iota-disc">
+<animateTransform attributeName="transform" type="rotate" from="0 108 100" to="360 108 100" dur="5.2s" repeatCount="indefinite"/>
+<g fill="none" stroke="#3a3a3a" stroke-width="0.6" opacity="0.55">
+<circle cx="108" cy="100" r="36"/><circle cx="108" cy="100" r="40"/>
+<circle cx="108" cy="100" r="44"/><circle cx="108" cy="100" r="48"/>
+<circle cx="108" cy="100" r="52"/><circle cx="108" cy="100" r="56"/>
+<circle cx="108" cy="100" r="60"/><circle cx="108" cy="100" r="64"/>
+<circle cx="108" cy="100" r="68"/><circle cx="108" cy="100" r="72"/>
+</g>
+<circle cx="108" cy="100" r="27" fill="#ec4899"/>
+<circle cx="108" cy="100" r="27" fill="none" stroke="#22d3ee" stroke-width="1" opacity="0.5"/>
+<path d="M108 79 A21 21 0 0 1 129 100" fill="none" stroke="#171326" stroke-width="1" opacity="0.5"/>
+<text x="108" y="107" font-size="20" font-style="italic" fill="#171326" text-anchor="middle" font-family="Georgia,'Iowan Old Style','Palatino Linotype','Times New Roman',serif">i</text>
+<circle cx="108" cy="100" r="3.2" fill="#171326"/>
+</g>
+<circle cx="108" cy="100" r="76" fill="url(#iotav-sheen)" clip-path="url(#iotav-discclip)"/>
+<circle cx="108" cy="100" r="76" fill="none" stroke="#221d36"/>
+
+<g stroke="#3d3a55" fill="#3d3a55">
+<circle cx="196" cy="30" r="9" fill="#575270"/><circle cx="196" cy="30" r="3.5" fill="#1c1830"/>
+<path class="iota-arm-shadow" d="M196 30 L150 84" stroke-width="3" stroke-linecap="round"/>
+<g transform="translate(150,84) rotate(-49)">
+<rect x="-5" y="-2" width="16" height="9" rx="1.5" fill="#575270"/>
+<path d="M11 2 L15 8" stroke-width="1.6"/>
+</g>
+</g>
+
+<text x="238" y="36" font-size="9" letter-spacing="4" fill="#9a8fb8" font-family="ui-monospace,'SF Mono','Cascadia Mono',Menlo,Consolas,monospace">BROADCASTING · SIDE A</text>
+<text x="238" y="76" font-size="38" font-weight="700" letter-spacing="-0.5" fill="#f2edfa" font-family="Georgia,'Iowan Old Style','Palatino Linotype','Times New Roman',serif">IOTA</text>
+<text x="238" y="100" font-size="14" font-style="italic" fill="#9a8fb8" font-family="Georgia,'Iowan Old Style','Palatino Linotype','Times New Roman',serif">a go tdlib engine, pressing for group voice chats</text>
+
+<text x="238" y="126" font-size="10" letter-spacing="1.5" fill="#ec4899" font-family="ui-monospace,'SF Mono','Cascadia Mono',Menlo,Consolas,monospace">GO</text>
+<text x="266" y="126" font-size="10" letter-spacing="1.5" fill="#f2edfa" font-family="ui-monospace,'SF Mono','Cascadia Mono',Menlo,Consolas,monospace">·</text>
+<text x="278" y="126" font-size="10" letter-spacing="1.5" fill="#f2edfa" font-family="ui-monospace,'SF Mono','Cascadia Mono',Menlo,Consolas,monospace">23 PUSHES THIS WEEK</text>
+<text x="452" y="126" font-size="10" letter-spacing="1.5" fill="#f2edfa" font-family="ui-monospace,'SF Mono','Cascadia Mono',Menlo,Consolas,monospace">·</text>
+<text x="464" y="126" font-size="10" letter-spacing="1.5" fill="#f2edfa" font-family="ui-monospace,'SF Mono','Cascadia Mono',Menlo,Consolas,monospace">2H AGO</text>
+<text x="524" y="126" font-size="10" letter-spacing="1.5" fill="#9a8fb8" font-family="ui-monospace,'SF Mono','Cascadia Mono',Menlo,Consolas,monospace">·</text>
+<text x="536" y="126" font-size="10" letter-spacing="1.5" fill="#9a8fb8" font-family="ui-monospace,'SF Mono','Cascadia Mono',Menlo,Consolas,monospace">+4 PRIVATE</text>
+<text x="626" y="126" font-size="10" letter-spacing="1.5" fill="#9a8fb8" font-family="ui-monospace,'SF Mono','Cascadia Mono',Menlo,Consolas,monospace">·</text>
+<text x="638" y="126" font-size="10" letter-spacing="1.5" fill="#9a8fb8" font-family="ui-monospace,'SF Mono','Cascadia Mono',Menlo,Consolas,monospace">33⅓ RPM</text>
+
+<path d="M238 140 H778" stroke="#221d36" stroke-width="1"/>
+<text x="238" y="174" font-size="9" letter-spacing="3" fill="#9a8fb8" font-family="ui-monospace,'SF Mono','Cascadia Mono',Menlo,Consolas,monospace">B/</text>
+<clipPath id="iotav-sideb"><rect x="270" y="160" width="508" height="20"/></clipPath>
+<g clip-path="url(#iotav-sideb)">
+<g><animateTransform attributeName="transform" type="translate" values="0 0; -660 0" dur="33s" repeatCount="indefinite"/>
+<text x="270" y="174" font-size="10" letter-spacing="1.5" font-family="ui-monospace,'SF Mono','Cascadia Mono',Menlo,Consolas,monospace"><tspan fill="#f2edfa">AISHAMUSIC</tspan><tspan fill="#ec4899">&#8195;&#183;&#8195;</tspan><tspan fill="#f2edfa">GOTDBOT</tspan><tspan fill="#ec4899">&#8195;&#183;&#8195;</tspan><tspan fill="#f2edfa">LUDO-BOT</tspan><tspan fill="#ec4899">&#8195;&#183;&#8195;</tspan><tspan fill="#f2edfa">LYRAMUSIC</tspan><tspan fill="#ec4899">&#8195;&#183;&#8195;</tspan><tspan fill="#f2edfa">QUOTE-BOT</tspan><tspan fill="#ec4899">&#8195;&#183;&#8195;</tspan><tspan fill="#f2edfa">GOBOT</tspan></text>
+<text x="930" y="174" font-size="10" letter-spacing="1.5" font-family="ui-monospace,'SF Mono','Cascadia Mono',Menlo,Consolas,monospace"><tspan fill="#f2edfa">AISHAMUSIC</tspan><tspan fill="#ec4899">&#8195;&#183;&#8195;</tspan><tspan fill="#f2edfa">GOTDBOT</tspan><tspan fill="#ec4899">&#8195;&#183;&#8195;</tspan><tspan fill="#f2edfa">LUDO-BOT</tspan><tspan fill="#ec4899">&#8195;&#183;&#8195;</tspan><tspan fill="#f2edfa">LYRAMUSIC</tspan><tspan fill="#ec4899">&#8195;&#183;&#8195;</tspan><tspan fill="#f2edfa">QUOTE-BOT</tspan><tspan fill="#ec4899">&#8195;&#183;&#8195;</tspan><tspan fill="#f2edfa">GOBOT</tspan></text>
+</g>
+</g>
+
+<circle cx="762" cy="100" r="2.2" fill="#22d3ee" opacity="0.7"/>
+<circle cx="770" cy="100" r="2.2" fill="#ec4899" opacity="0.7"/>
+<circle cx="778" cy="100" r="2.2" fill="#7c3aed" opacity="0.7"/>
+</svg>

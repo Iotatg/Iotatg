@@ -121,7 +121,29 @@ Private product line (not public source): **Iota** games/economy and **IotaXMusi
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:7c3aed&height=8&section=header" width="100%" alt="bar"/>
 
-**20+ Live Animations** — pulse · typing · spinner · neon-bar · wave-bars · scan · heartbeat · gradient · bounce · glow · signal · stars · morph · clock · border · particles · loading · equalizer · gradient-shift · typing-svg
+**Iota instruments** — detailed 800x200 panels, commit-fm pattern
+
+<br/>
+
+<img src="assets/iota/vumeter.svg" width="100%" alt="vu meter"/>
+<br/>
+<img src="assets/iota/vinyl.svg" width="100%" alt="vinyl"/>
+<br/>
+<img src="assets/iota/terminal.svg" width="100%" alt="terminal"/>
+<br/>
+<img src="assets/iota/dotmatrix.svg" width="100%" alt="dot matrix"/>
+<br/>
+<img src="assets/iota/splitflap.svg" width="100%" alt="split flap"/>
+<br/>
+<img src="assets/iota/carradio.svg" width="100%" alt="car radio"/>
+<br/>
+<img src="assets/iota/winamp.svg" width="100%" alt="winamp"/>
+<br/>
+<img src="assets/iota/chassis.svg" width="100%" alt="chassis"/>
+
+<br/>
+
+**20+ Live Animations** — pulse · typing · spinner · neon-bar · wave-bars · scan · heartbeat · gradient · bounce · glow · signal · stars · morph · clock · border · particles · loading · equalizer
 
 <br/>
 
