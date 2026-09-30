@@ -9,8 +9,8 @@
 <br/>
 
 <a href="https://github.com/Iotatg"><img src="https://img.shields.io/badge/GitHub-Iotatg-111827?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
-<a href="https://t.me/IotaUpdates"><img src="https://img.shields.io/badge/Telegram-Updates-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="updates"/></a>
-<a href="https://t.me/+Q493A_VBAUpkMmRl"><img src="https://img.shields.io/badge/Support-22d3ee?style=for-the-badge&logo=telegram&logoColor=black" alt="support"/></a>
+<a href="https://t.me/im_iota"><img src="https://img.shields.io/badge/Telegram-Updates-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="updates"/></a>
+<a href="https://t.me/im_iota"><img src="https://img.shields.io/badge/Support-22d3ee?style=for-the-badge&logo=telegram&logoColor=black" alt="support"/></a>
 <img src="https://komarev.com/ghpvc/?username=Iotatg&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge" alt="views"/>
 <img src="https://img.shields.io/github/stars/Iotatg?style=for-the-badge&color=FFD700" alt="stars"/>
 
@@ -44,9 +44,9 @@ Iota ships Telegram products and public developer tools around streaming, games,
 
 <div align="center">
 
-<a href="https://t.me/iotamusicbot"><img src="https://img.shields.io/badge/Try%20Music%20Bot-7c3aed?style=for-the-badge&logo=telegram&logoColor=white" alt="music bot"/></a>
+<a href="https://t.me/+Q493A_VBAUpkMmRl"><img src="https://img.shields.io/badge/Try%20Music%20Bot-7c3aed?style=for-the-badge&logo=telegram&logoColor=white" alt="music bot"/></a>
 <a href="https://t.me/Its_iotabot"><img src="https://img.shields.io/badge/Try%20Games%20Bot-ec4899?style=for-the-badge&logo=telegram&logoColor=white" alt="games bot"/></a>
-<a href="https://t.me/+Q493A_VBAUpkMmRl"><img src="https://img.shields.io/badge/Channel-Iota-22d3ee?style=for-the-badge&logo=telegram&logoColor=black" alt="channel"/></a>
+<a href="https://t.me/im_iota"><img src="https://img.shields.io/badge/Channel-im__iota-22d3ee?style=for-the-badge&logo=telegram&logoColor=black" alt="channel"/></a>
 
 <img src="https://user-images.githubusercontent.com/74038190/212748137-81bcfb1c-b17d-4d10-87c0-7d2c8d557f30.gif" width="420" alt="bars"/>
 
