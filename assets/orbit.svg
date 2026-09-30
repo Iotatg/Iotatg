@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="280" viewBox="0 0 280 280">
+  <rect width="280" height="280" rx="28" fill="#0b1020"/>
+  <circle cx="140" cy="140" r="92" fill="none" stroke="#312e81" stroke-width="2"/>
+  <circle cx="140" cy="140" r="58" fill="none" stroke="#164e63" stroke-width="2"/>
+  <circle cx="140" cy="140" r="28" fill="#111827" stroke="#22d3ee" stroke-width="3"/>
+  <text x="140" y="146" text-anchor="middle" fill="#e2e8f0" font-size="16" font-family="ui-sans-serif, Segoe UI, Arial" font-weight="700">IOTA</text>
+  <g>
+    <circle cx="140" cy="48" r="8" fill="#22d3ee"/>
+    <animateTransform attributeName="transform" type="rotate" from="0 140 140" to="360 140 140" dur="8s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <circle cx="198" cy="140" r="7" fill="#ec4899"/>
+    <animateTransform attributeName="transform" type="rotate" from="360 140 140" to="0 140 140" dur="5.5s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <circle cx="140" cy="82" r="5" fill="#a78bfa"/>
+    <animateTransform attributeName="transform" type="rotate" from="40 140 140" to="400 140 140" dur="3.8s" repeatCount="indefinite"/>
+  </g>
+</svg>
