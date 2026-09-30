@@ -28,6 +28,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=700&color=EC4899&center=true&vCenter=true&width=860&lines=Telegram+music+engine+for+voice+chats;Arcade+%2B+economy+bots+for+groups;gotdbot+%E2%80%94+TDLib+without+CGO;lyraMusic+%E2%80%94+Material+You+Android" alt="bio typing"/>
 
 <img src="assets/vinyl.svg" width="160" alt="vinyl"/>
+<img src="assets/cfm-music.svg" width="100%" alt="iota music fm"/>
 
 </div>
 
