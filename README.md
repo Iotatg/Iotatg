@@ -1,85 +1,59 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="line"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,25:1e1b4b,50:7c3aed,75:ec4899,100:22d3ee&height=220&section=header&text=IOTA&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Music%20%C2%B7%20Games%20%C2%B7%20AI%20%C2%B7%20Clients&descAlignY=62&descSize=16&descColor=e9d5ff" width="100%" alt="Iota"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,25:1e1b4b,50:7c3aed,75:ec4899,100:22d3ee&height=300&section=header&text=IOTA&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=40&stroke=ffffff&strokeWidth=1&desc=Music%20%E2%80%A2%20Games%20%E2%80%A2%20AI%20%E2%80%A2%20Clients&descAlignY=64&descSize=18&descColor=e9d5ff" width="100%" alt="wave header"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=2400&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=NOW+PLAYING+%E2%80%94+IOTA+RADIO;QUEUE+LOADED+%E2%80%94+GAMES+ONLINE;TDLib+IN+PURE+GO;BUILT+BY+IOTA" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2400&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=NOW+PLAYING+-+IOTA+RADIO;VOICE+CHAT+STREAMS;TDLIB+IN+PURE+GO" alt="typing"/>
 
 <br/>
 
 <a href="https://github.com/Iotatg"><img src="https://img.shields.io/badge/GitHub-Iotatg-111827?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
-<a href="https://t.me/im_iota"><img src="https://img.shields.io/badge/Telegram-Updates-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="updates"/></a>
-<a href="https://t.me/im_iota"><img src="https://img.shields.io/badge/Support-22d3ee?style=for-the-badge&logo=telegram&logoColor=black" alt="support"/></a>
-<img src="https://komarev.com/ghpvc/?username=Iotatg&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge" alt="views"/>
-<img src="https://img.shields.io/github/stars/Iotatg?style=for-the-badge&color=FFD700" alt="stars"/>
+<a href="https://t.me/im_iota"><img src="https://img.shields.io/badge/Channel-im__iota-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="channel"/></a>
+<a href="https://t.me/im_iota"><img src="https://img.shields.io/badge/Support-im__iota-22d3ee?style=for-the-badge&logo=telegram&logoColor=black" alt="support"/></a>
+<img src="https://komarev.com/ghpvc/?username=Iotatg&label=VIEWS&color=7c3aed&style=for-the-badge" alt="views"/>
 
-<img src="assets/header.svg" width="100%" alt="svg header"/>
-<img src="assets/equalizer.svg" width="100%" alt="equalizer"/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-ba01-69e67e4593ac.gif" width="720" alt="music visual"/>
+<img src="assets/iota/chassis.svg" width="100%" alt="Iota chassis"/>
 
 </div>
 
-<img src="assets/neon-line.svg" width="100%" alt="neon"/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=700&color=EC4899&center=true&vCenter=true&width=860&lines=Telegram+music+engine+for+voice+chats;Arcade+%2B+economy+bots+for+groups;gotdbot+%E2%80%94+TDLib+without+CGO;lyraMusic+%E2%80%94+Material+You+Android" alt="bio typing"/>
-
-<img src="assets/vinyl.svg" width="160" alt="vinyl"/>
-<img src="assets/cfm-music.svg" width="100%" alt="iota music fm"/>
-
-</div>
-
-## Overview
-
-Iota ships Telegram products and public developer tools around streaming, games, AI, and native clients.
+Telegram products and public tools: voice-chat music, arcade and economy, a pure Go TDLib client, and a small AI lab.
 
 | Lane | What ships |
 |------|------------|
 | Music | Voice-chat queues, clones, playlists, Android player |
 | Games | Economy, arcade, AI chat, group tools |
-| Clients | Pure Go TDLib, quote rendering, robotics/IoT |
-| Lab | Codex, ChatGPT Web, voice output |
+| Clients | Pure Go TDLib, quote rendering, robotics and IoT |
+| Lab | Codex, ChatGPT Web, local voice |
 
 <div align="center">
 
-<a href="https://t.me/+Q493A_VBAUpkMmRl"><img src="https://img.shields.io/badge/Try%20Music%20Bot-7c3aed?style=for-the-badge&logo=telegram&logoColor=white" alt="music bot"/></a>
-<a href="https://t.me/Its_iotabot"><img src="https://img.shields.io/badge/Try%20Games%20Bot-ec4899?style=for-the-badge&logo=telegram&logoColor=white" alt="games bot"/></a>
-<a href="https://t.me/im_iota"><img src="https://img.shields.io/badge/Channel-im__iota-22d3ee?style=for-the-badge&logo=telegram&logoColor=black" alt="channel"/></a>
-
-<img src="https://user-images.githubusercontent.com/74038190/212748137-81bcfb1c-b17d-4d10-87c0-7d2c8d557f30.gif" width="420" alt="bars"/>
+<a href="https://t.me/iotamusicbot"><img src="https://img.shields.io/badge/Music%20Bot-7c3aed?style=for-the-badge&logo=telegram&logoColor=white" alt="music"/></a>
+<a href="https://t.me/Its_iotabot"><img src="https://img.shields.io/badge/Games%20Bot-ec4899?style=for-the-badge&logo=telegram&logoColor=white" alt="games"/></a>
+<a href="https://t.me/im_iota"><img src="https://img.shields.io/badge/Channel-22d3ee?style=for-the-badge&logo=telegram&logoColor=black" alt="channel"/></a>
 
 </div>
 
-<img src="assets/neon-line.svg" width="100%" alt="neon"/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:7c3aed,100:22d3ee&height=80&text=Public%20work&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%" alt="public"/>
-
-</div>
-
-## Public projects
+## Public work
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
 **Clients**
+
 - [gotdbot](https://github.com/Iotatg/gotdbot) — TDLib in pure Go, zero CGO
 - [quote-bot](https://github.com/Iotatg/quote-bot) — Telegram quote renderer
 - [gobot](https://github.com/Iotatg/gobot) — robotics, drones, IoT
 
 **Music**
+
 - [lyraMusic](https://github.com/Iotatg/lyraMusic) — Material You Android player
 - [persona-voice](https://github.com/Iotatg/persona-voice) — local near-realtime voices
 
 </td>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
 **Lab**
+
 - [Astra-Ares](https://github.com/Iotatg/Astra-Ares) — adaptive Codex reasoning
 - [codex-chatgpt-web](https://github.com/Iotatg/codex-chatgpt-web) — ChatGPT Web as a Codex model
 - [watch-with-codex](https://github.com/Iotatg/watch-with-codex) — WebMCP watch-along
@@ -89,104 +63,44 @@ Iota ships Telegram products and public developer tools around streaming, games,
 </tr>
 </table>
 
-Private product line (not public source): **Iota** games/economy and **IotaXMusic / AishaMusic** voice-chat streaming.
+Private line, source not public: **Iota** games and economy, **IotaXMusic / AishaMusic** voice-chat streaming.
 
-<img src="assets/neon-line.svg" width="100%" alt="neon"/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:7c3aed&height=8&section=header" width="100%" alt="bar"/>
-
-**Animated SVGs** — vinyl · vumeter · winamp · terminal · dotmatrix · carradio · splitflap · commit-fm
-
-<br/>
-
-<img src="assets/vinyl.svg" width="500" alt="vinyl"/>
-<img src="assets/vumeter.svg" width="250" alt="vumeter"/>
-<img src="assets/winamp.svg" width="400" alt="winamp"/>
-<br/>
-<img src="assets/terminal.svg" width="500" alt="terminal"/>
-<img src="assets/dotmatrix.svg" width="500" alt="dotmatrix"/>
-<br/>
-<img src="assets/carradio.svg" width="500" alt="carradio"/>
-<img src="assets/splitflap.svg" width="500" alt="splitflap"/>
-<br/>
-<img src="assets/commit-fm.svg" width="100%" alt="commit-fm"/>
-
-</div>
-
-<img src="assets/neon-line.svg" width="100%" alt="neon"/>
+## Studio
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:7c3aed&height=8&section=header" width="100%" alt="bar"/>
-
-**Iota instruments** — detailed 800x200 panels, commit-fm pattern
-
-<br/>
 
 <img src="assets/iota/vumeter.svg" width="100%" alt="vu meter"/>
 <br/>
 <img src="assets/iota/vinyl.svg" width="100%" alt="vinyl"/>
 <br/>
-<img src="assets/iota/terminal.svg" width="100%" alt="terminal"/>
+<img src="assets/iota/winamp.svg" width="100%" alt="winamp"/>
 <br/>
+<img src="assets/iota/terminal.svg" width="100%" alt="terminal"/>
+
+</div>
+
+<details>
+<summary>More panels</summary>
+
+<div align="center">
+
 <img src="assets/iota/dotmatrix.svg" width="100%" alt="dot matrix"/>
 <br/>
 <img src="assets/iota/splitflap.svg" width="100%" alt="split flap"/>
 <br/>
 <img src="assets/iota/carradio.svg" width="100%" alt="car radio"/>
-<br/>
-<img src="assets/iota/winamp.svg" width="100%" alt="winamp"/>
-<br/>
-<img src="assets/iota/chassis.svg" width="100%" alt="chassis"/>
-
-<br/>
-
-**20+ Live Animations** — pulse · typing · spinner · neon-bar · wave-bars · scan · heartbeat · gradient · bounce · glow · signal · stars · morph · clock · border · particles · loading · equalizer
-
-<br/>
-
-<img src="assets/anim/pulse-ring.svg" width="180" alt="pulse"/>
-<img src="assets/anim/typing-dots.svg" width="250" alt="typing"/>
-<img src="assets/anim/spinner.svg" width="150" alt="spinner"/>
-<br/>
-<img src="assets/anim/neon-bar.svg" width="500" alt="neon-bar"/>
-<br/>
-<img src="assets/anim/wave-bars.svg" width="500" alt="wave-bars"/>
-<br/>
-<img src="assets/anim/scan-line.svg" width="350" alt="scan"/>
-<img src="assets/anim/heartbeat.svg" width="150" alt="heartbeat"/>
-<br/>
-<img src="assets/anim/gradient-shift.svg" width="350" alt="gradient"/>
-<img src="assets/anim/bounce-ball.svg" width="200" alt="bounce"/>
-<br/>
-<img src="assets/anim/glow-text.svg" width="400" alt="glow"/>
-<img src="assets/anim/signal-bars.svg" width="150" alt="signal"/>
-<br/>
-<img src="assets/anim/star-rating.svg" width="300" alt="stars"/>
-<img src="assets/anim/morph-shape.svg" width="150" alt="morph"/>
-<br/>
-<img src="assets/anim/clock-spin.svg" width="150" alt="clock"/>
-<img src="assets/anim/border-glow.svg" width="250" alt="border"/>
-<br/>
-<img src="assets/anim/particle-explode.svg" width="150" alt="particles"/>
-<img src="assets/anim/loading-bar.svg" width="350" alt="loading"/>
-<br/>
-<img src="assets/anim/typing-svg.svg" width="500" alt="typing-svg"/>
-<img src="assets/anim/equalizer-anim.svg" width="300" alt="equalizer"/>
 
 </div>
 
+</details>
+
+## Stack
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:7c3aed&height=8&section=header" width="100%" alt="bar"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Iotatg&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies"/>
-
-<p>
 <img src="https://skillicons.dev/icons?i=go,python,androidstudio,kotlin,linux,docker,git,github,mongodb,nodejs&perline=10" alt="stack"/>
-</p>
+
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Iotatg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=a855f7&text_color=e2e8f0" height="165" alt="stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iotatg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ec4899&text_color=e2e8f0" height="165" alt="langs"/>
@@ -199,10 +113,6 @@ Private product line (not public source): **Iota** games/economy and **IotaXMusi
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Iotatg&theme=react-dark&hide_border=true&bg_color=0d1117&color=22d3ee&line=a855f7&point=ec4899" width="100%" alt="activity"/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:7c3aed,100:22d3ee&height=140&section=footer" width="100%" alt="footer"/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="line"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:7c3aed,100:22d3ee&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
